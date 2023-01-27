@@ -1,0 +1,4 @@
+substrate-contracts-node
+Cargo.lock
+targets/
+debug/
