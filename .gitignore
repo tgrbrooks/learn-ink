@@ -1,4 +1,4 @@
 substrate-contracts-node
 Cargo.lock
-targets/
+target/
 debug/
